@@ -1,6 +1,11 @@
-## Hi theree 👋
+## Olá 👋
+Tudo bem?
+
+**Meu nome é Gisely**
+![](https://t2.gstatic.com/licensed-image?q=tbn:ANd9GcRoZC_JQAsW5rB_YteF6L0u0o94iMUKzkHxa8ibXSoB79pY8mNVv5BnbKehy7mZTEBS)
 
 <!--
+💙
 **GiihMimi2001/GiihMimi2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
